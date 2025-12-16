@@ -65,7 +65,7 @@ Based on model evaluation metrics, Random Forest outperformed the other models, 
 Run model.py to regenerate the model.
 
 - Jupyter notebook file can not load due to size limit.
-Download miniproject1.ipynp file to get **EDA and Data Pre-processing and Model Building**.
+Download miniproject1.ipynp file to get **EDA, Data Pre-processing and Model Building**.
 
 ## Requirements
 
