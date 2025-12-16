@@ -50,7 +50,7 @@ Based on model evaluation metrics, Random Forest outperformed the other models, 
 
 ## Key Results
 
- Random Forest Regression model has R2 score of 0.885711659269566, also the learning score shows most stable and good fit. Based on that, it used for the Gas Turbine NOX emission prediction project.
+ Random Forest Regression model has R2 score of 0.885711659269566, also the plot of learning curve showsthe most stable and good fit. Based on that, it used for the Gas Turbine NOX emission prediction project.
 
 # Model Output Preview
 
