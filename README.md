@@ -83,6 +83,11 @@ Download miniproject1.ipynp file to get **EDA and Data Pre-processing and Model 
 
 - HTML,CSS
 
+**Name:** Anamika Suresh
+
+**Title of ML project:**  Predicting Energy NOX emission of a Gas Turbine
+
+**Organization :**  Entri Elevate
 
 
 
