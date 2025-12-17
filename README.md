@@ -1,4 +1,4 @@
-# Project Title : Predicting Energy NOX emission of a Gas Turbine
+# Project Title : Predicting NOX emission of a Gas Turbine
 
 # Objective :
 
@@ -85,7 +85,7 @@ Download miniproject1.ipynp file to get **EDA, Data Pre-processing and Model Bui
 
 **Name:** Anamika Suresh
 
-**Title of ML project:**  Predicting Energy NOX emission of a Gas Turbine
+**Title of ML project:**  Predicting NOX emission of a Gas Turbine
 
 **Organization :**  Entri Elevate
 
