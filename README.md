@@ -1,4 +1,4 @@
-# Project Title : Predicting NOX emission of a Gas Turbine
+# Predicting NOX emission of a Gas Turbine
 
 # Objective :
 
@@ -10,7 +10,7 @@ The dataset used for this project was taken from the UCI machine learning reposi
 
 ## Phase 1: EDA and Data Pre-processing
 
-**Preprocess and Cleaning**
+### Preprocess and Cleaning
 
 - Checking for any irrelevant features in the dataset and dropping them.
 
@@ -18,7 +18,7 @@ The dataset used for this project was taken from the UCI machine learning reposi
 
 - Check for different data types.
 
-**Exploratory Data Analysis through Visualisation**
+### Exploratory Data Analysis through Visualisation
 
  Then use various graphs to understand the data better.
 
@@ -34,7 +34,7 @@ The dataset used for this project was taken from the UCI machine learning reposi
 
 ## Phase 2: Feature Selection and Model Building
 
- ## **Models Used:**
+ ### Models Used
  
    - Linear Regression
 
@@ -60,7 +60,7 @@ Based on model evaluation metrics, Random Forest outperformed the other models, 
 
 ![Model Output](output2.png)
 
-## *NOTE:*
+## NOTE
 - Trained model files (.pkl) are excluded due to size limits.
 Run model.py to regenerate the model.
 
