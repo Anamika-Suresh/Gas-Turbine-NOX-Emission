@@ -6,7 +6,7 @@ The datset has attributes such as atmospheric temperature, ambient pressure, amb
 
 # Dataset Used : 
 
-The dataset used for this project was taken from the UCI machine learning repository :https://archive.ics.uci.edu/dataset/551/gas+turbine+co+and+nox+emission+data+set
+The dataset used for this project was taken from the UCI machine learning repository https://archive.ics.uci.edu/dataset/551/gas+turbine+co+and+nox+emission+data+set
 
 ## Phase 1: EDA and Data Pre-processing
 
